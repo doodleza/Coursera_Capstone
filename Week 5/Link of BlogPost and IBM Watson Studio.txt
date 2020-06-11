@@ -1,3 +1,3 @@
 Blogpost: https://medium.com/@iobashvilijemo/the-battle-of-neighborhoods-finding-a-better-place-in-scarborough-toronto-733b458ca8df
 
-IBM Watson Studio - Project Report Link: https://ibm.co/37mOpTP
+IBM Watson Studio - Project Report Link: https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/1b93be01-7ce9-40de-a68f-8c3e6d847e9a/view?access_token=3e9175228954505fa15f7073386500179f4de403f2fdc4d573b2b0bd9bc68582
